@@ -114,6 +114,10 @@ This project can be used as:
 
 ---
 
+# 📍 Explanation video :
+
+https://drive.google.com/file/d/1rMrjJgrNCmjNp6NGM21GAd3yDGOIbGmQ/view?usp=drive_link
+
 # 📌 Conclusion
 
 Fundamental Booster is a simple and educational project that helps beginners understand the core concepts of Python programming.
