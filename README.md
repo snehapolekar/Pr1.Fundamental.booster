@@ -116,7 +116,7 @@ This project can be used as:
 
 # 📍 Explanation video :
 
-https://drive.google.com/file/d/1rMrjJgrNCmjNp6NGM21GAd3yDGOIbGmQ/view?usp=drive_link
+https://drive.google.com/file/d/1rMrjJgrNCmjNp6NGM21GAd3yDGOIbGmQ/view?usp=sharing
 
 # 📌 Conclusion
 
